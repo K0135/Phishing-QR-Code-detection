@@ -1,0 +1,5 @@
+This folder contains 3 models.
+
+A classification model using Random Forest Classifier on 2000 URLS
+A regression model using Random Forest Regression on 2000 URLS
+A classification model using Random Forest Classifier on the Kaggle dataset of 10000+ URLS
